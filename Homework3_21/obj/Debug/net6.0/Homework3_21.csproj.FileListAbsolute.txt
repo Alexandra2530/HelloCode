@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\bin\Debug\net6.0\Homework3_21.exe
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\bin\Debug\net6.0\Homework3_21.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\bin\Debug\net6.0\Homework3_21.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\bin\Debug\net6.0\Homework3_21.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\bin\Debug\net6.0\Homework3_21.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\refint\Homework3_21.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\Homework3_21.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework3_21\obj\Debug\net6.0\ref\Homework3_21.dll

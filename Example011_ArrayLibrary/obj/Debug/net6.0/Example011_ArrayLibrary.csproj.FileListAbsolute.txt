@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\bin\Debug\net6.0\Homework2_23.exe
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\bin\Debug\net6.0\Homework2_23.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\bin\Debug\net6.0\Homework2_23.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\bin\Debug\net6.0\Homework2_23.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\bin\Debug\net6.0\Homework2_23.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\refint\Homework2_23.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\Homework2_23.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework2_23\obj\Debug\net6.0\ref\Homework2_23.dll

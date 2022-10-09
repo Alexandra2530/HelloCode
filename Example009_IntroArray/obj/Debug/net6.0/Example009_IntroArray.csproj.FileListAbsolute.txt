@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Example009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
