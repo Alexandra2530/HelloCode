@@ -10,7 +10,7 @@ return Convert.ToInt32(Console.ReadLine());
 void GetPrintPow(int number)
 {
     int count = 1;
-    Console.WriteLine("Таблица кубов чисел от 1 до N " + number + ": ");
+    Console.WriteLine("Таблица кубов чисел от 1 до " + number + ": ");
     while (count <= number)
     {
         Console.Write(Math.Pow((count),3) + " ");
