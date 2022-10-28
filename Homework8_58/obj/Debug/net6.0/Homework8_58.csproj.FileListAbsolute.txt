@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\bin\Debug\net6.0\Homework8_58.exe
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\bin\Debug\net6.0\Homework8_58.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\bin\Debug\net6.0\Homework8_58.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\bin\Debug\net6.0\Homework8_58.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\bin\Debug\net6.0\Homework8_58.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\refint\Homework8_58.dll
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\Homework8_58.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\Homework8_58\obj\Debug\net6.0\ref\Homework8_58.dll
