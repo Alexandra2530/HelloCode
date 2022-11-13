@@ -1,0 +1,15 @@
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.csproj.AssemblyReference.cache
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.AssemblyInfoInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.AssemblyInfo.cs
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.csproj.CoreCompileInputs.cache
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\bin\Debug\net6.0\FinalTestWork.exe
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\bin\Debug\net6.0\FinalTestWork.deps.json
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\bin\Debug\net6.0\FinalTestWork.runtimeconfig.json
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\bin\Debug\net6.0\FinalTestWork.dll
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\bin\Debug\net6.0\FinalTestWork.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.dll
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\refint\FinalTestWork.dll
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.pdb
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\FinalTestWork.genruntimeconfig.cache
+C:\Users\asmam\OneDrive\Документы\Examples\FinalTestWork\obj\Debug\net6.0\ref\FinalTestWork.dll
